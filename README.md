@@ -12,11 +12,6 @@ A dataset with 300 images of humans with some background and a corresponding bin
 
 ![Binary_Mask](https://github.com/VikramShenoy97/Human-Segmentation-Dataset/blob/master/Ground_Truth/87.png)
 
-
-## Authors
-
-* **Vikram Shenoy** - *Initial work* - [Vikram Shenoy](https://github.com/VikramShenoy97)
-
 ## Acknowledgments
 
 * Swift and precise generation of masks was possible through [*Remove bg*](https://www.remove.bg)'s API.
