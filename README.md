@@ -6,16 +6,12 @@ A dataset with 300 images of humans with some background and a corresponding bin
 
 ### Training Image
 
-![Training_Image](https://github.com/VikramShenoy97/Human-Segmentation-Dataset/blob/master/Training_Images/87.jpg)
+![Training_Image](https://github.com/dirarkh/Human-Segmentation-Dataset/blob/master/Training_Images/87.jpg)
 
 ### Corresponding Ground Truth Image (Binary Mask)
 
-![Binary_Mask](https://github.com/VikramShenoy97/Human-Segmentation-Dataset/blob/master/Ground_Truth/87.png)
+![Binary_Mask](https://github.com/dirarkh/Human-Segmentation-Dataset/blob/master/Ground_Truth/87.png)
 
-
-## Authors
-
-* **Vikram Shenoy** - *Initial work* - [Vikram Shenoy](https://github.com/VikramShenoy97)
 
 ## Acknowledgments
 
