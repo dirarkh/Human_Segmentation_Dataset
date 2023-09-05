@@ -18,3 +18,5 @@ A dataset with 300 images of humans with some background and a corresponding bin
 * Swift and precise generation of masks was possible through [*Remove bg*](https://www.remove.bg)'s API.
 * Some Images were taken from the [*GRAZ 01*](http://www-old.emt.tugraz.at/~pinz/data/) dataset.
 * Most images were downloaded from [*Google Image Search*](https://images.google.com/?gws_rd=ssl).
+
+##Credits to Vikram SHENOY
